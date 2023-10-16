@@ -1,0 +1,113 @@
+p{
+  
+    font-family:'Roboto Slab', sans-serif;
+    
+    
+
+}
+
+.page-header{
+    display:flex;
+    align-items: center;
+    color: #000000;
+    background: #A52A2A;
+    font-size: 13px;
+    margin:auto;
+    font-weight:bold;
+    font-family:'Times New Roman';
+
+
+
+}
+.page-header span{
+    color:#ffff00;
+}
+.page-header .mouse{
+    color:#ffffff;
+}
+.page-header img{
+    height:80px;
+    width:80px;
+    margin-left:5px;
+    transition: max-height 750ms linear, 400ms;
+    
+
+
+}
+
+.page-header img:hover{
+    max-height: 180px;
+
+
+}
+ .navbar{
+    background-color:#000000;
+    font-size:16px;
+    letter-spacing: 1px;
+    color:#ffffff;
+    
+
+
+
+ }
+
+
+
+ .navbar .navbar-brand{
+    color: white;
+
+ }
+ .navbar .navbar-brand img{
+    height:60px;
+    width:60px;
+    background-color:#000000;
+ }
+
+ .navbar .nav-link{
+    color:white;
+    transition: color 0.3s;
+    
+
+ }
+
+ .navbar .nav-link:hover{
+    color: #ffa500;
+ }
+
+
+
+.d-flex .searchbar{
+    width:300px;
+    height:40px;
+   
+    margin:auto;
+    border: 5px solid white;
+
+}
+.d-flex .btn{
+    margin:auto;
+    box-shadow:10px 10px 5px orange;
+    width:100px;
+    height:50px;
+    border-radius: 50px;
+    background-color: #ffffff;
+}
+
+.about{
+   margin-top:10px;
+
+   background-color: #000000;
+   color:orange;
+
+
+
+}
+
+.about h2{
+    font-size:22px;
+    text-decoration: underline;
+    text-align:center;
+}
+
+
+/*comment */ 
